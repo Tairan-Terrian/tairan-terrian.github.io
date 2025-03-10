@@ -23,7 +23,6 @@ My research focuses on Graph Neural networks, Large Language Model, Data Mining,
 I am looking for the academic internships and Ph.D. positions at Fall 2027. If you are interested in me, please feel free to email me at tairanhuang99@gmail.com.
 
 
-<!-- -->
 # 🔥 News
 <!--  - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 # 📝 Publications 
@@ -55,10 +54,10 @@ I am looking for the academic internships and Ph.D. positions at Fall 2027. If y
 
 # 💬 Reviewer
 - IEEE Transactions on Knowledge and Data Engineering (TKDE)
-<!-- 
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
--->
+
+<!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
+<!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)-->
+
 
 # 💻 Internships
 <!--
