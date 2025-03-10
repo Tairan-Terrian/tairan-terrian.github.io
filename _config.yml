@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Tairan Huang"
-description              : "Personal academic homepages"
+description              : "A M.S. student @ Central South University. Focusing on GNN, LLM and Fraud Detection."
 repository               : "tairan-huang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Tairan Huang"
   avatar           : "images/my_profile.png"
-  bio              : "A M.S. student @ Central South University"
+  bio              : "Central South University"
   location         : "Changsha, China"
   employer         :
   pubmed           : 
