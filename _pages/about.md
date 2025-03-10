@@ -20,7 +20,7 @@ redirect_from:
 I am currently a M.S. student at Central South University. 
 
 My research focuses on Graph Neural networks, Large Language Model, Data Mining, Graph Fraud detection, specifically the area of Large Language Models including their theoretical foundations and applications.
-I am looking for the academic internships and Ph.D. positions at Fall 2027. If you are interested in me, please feel free to email me at tairanhuang99@gmail.com.
+I am looking for the academic internships and Ph.D. positions at Fall 2027. If you are interested in me, please feel free to email me at [tairanhuang99@gmail.com](mailto:tairanhuang99@gmail.com).
 
 
 # 🔥 News
