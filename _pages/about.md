@@ -24,7 +24,7 @@ I am looking for the academic internships any time and Ph.D. positions at Fall 2
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 One paper is accepted by Neural Networks.
+- *2025.03*: &nbsp;🎉🎉 One paper is accepted by Neural Networks.
 
 # 📝 Publications 
 <!-- 
