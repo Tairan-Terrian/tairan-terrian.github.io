@@ -24,10 +24,11 @@ I am looking for the academic internships any time and Ph.D. positions at Fall 2
 
 
 # 🔥 News
+- *2025.07*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2025.
 - *2025.03*: &nbsp;🎉🎉 One paper is accepted by Neural Networks.
 
 # 📝 Publications 
-<!-- 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -41,7 +42,7 @@ I am looking for the academic internships any time and Ph.D. positions at Fall 2
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
--->
+
 
 # 🎖 Honors and Awards
 <!-- 
