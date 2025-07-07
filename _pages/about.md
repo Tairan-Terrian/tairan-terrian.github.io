@@ -29,7 +29,7 @@ I am looking for the academic internships any time and Ph.D. positions at Fall 2
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/mm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/mm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Can LLMs Find Fraudsters? Multi-level LLM Enhanced Graph Fraud Detection](https://openreview.net/pdf?id=jADD2Ab4kE)
