@@ -37,7 +37,7 @@ I am looking for the academic internships any time and Ph.D. positions at Fall 2
 **Tairan Huang**, Yili Wang, Qiutong Li, Changlong He, Jianliang Gao
 
 - First exploration of fraud detection with LLMs in graph.
-- Novel multi-level LLM enhanced framework for graphfraud detection.
+- Novel multi-level LLM enhanced framework for graph fraud detection.
 </div>
 </div>
 
