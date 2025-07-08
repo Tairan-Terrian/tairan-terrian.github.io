@@ -43,10 +43,9 @@ I am looking for the academic internships any time and Ph.D. positions at Fall 2
 
 
 # 🎖 Honors and Awards
-<!-- 
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
--->
+
+- *2024.10* Excellent Academic Scholarship of the Recommended Student. 
+
 
 # 📖 Educations
 - *2024.09 - 2027.06 (now)*, Master, Central South University, Changsha, China. 
