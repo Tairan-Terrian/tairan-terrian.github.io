@@ -29,7 +29,7 @@ I am looking for the academic internships any time and Ph.D. positions at Fall 2
 - *2025.07*: &nbsp;🎉🎉 One paper is accepted by ECAI 2025.
 - *2025.03*: &nbsp;🎉🎉 One paper is accepted by Neural Networks.
 
-# 📝 Selected Publications 
+# 📝 Selected Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/mm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
