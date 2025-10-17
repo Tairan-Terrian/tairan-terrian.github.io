@@ -17,6 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 👋 About Me
 I am currently a M.S. student at Central South University. 
 
 My research focuses on Graph Neural networks, Large Language Model, Data Mining, Graph Fraud detection, specifically the area of Large Language Models including their theoretical foundations and applications.
