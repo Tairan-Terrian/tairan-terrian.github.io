@@ -45,7 +45,7 @@ I am looking for the academic internships any time and Ph.D. positions at Fall 2
 
 
 # 🎖 Honors and Awards
-- *2025.10* National Scholarship, Ministry of Education of China. 
+- *2025.10* National Scholarship, Ministry of Education of China. **(Top 1%)**
 - *2024.10* Excellent Academic Scholarship of the Recommended Student. 
 
 
