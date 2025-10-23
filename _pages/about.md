@@ -57,6 +57,7 @@ I am looking for the academic internships any time and Ph.D. positions at Fall 2
 # 💬 Services
 **Reviewer**:
 - IEEE Transactions on Knowledge and Data Engineering (TKDE)
+- AAAI Conference on Artificial Intelligence (AAAI 2026)
 
 <!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 <!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)-->
