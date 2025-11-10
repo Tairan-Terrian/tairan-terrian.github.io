@@ -36,7 +36,7 @@ I am looking for the academic internships any time and Ph.D. positions at Fall 2
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/aaai.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Can LLMs Find Fraudsters? Multi-level LLM Enhanced Graph Fraud Detection](https://openreview.net/pdf?id=jADD2Ab4kE)
+[ROVER: Robust Generative Continual Identity Unlearning against Relearning Attacks](https://openreview.net/pdf?id=jADD2Ab4kE)
 
 **Tairan Huang**, Qiang Chen, Beibei Hu, Yunlong Zhao, Hongyan Xu, Zhiyuan Chen, Yi Chen, Xiu Su
 - First exploration of robust multi-identity unlearning.
@@ -47,7 +47,7 @@ I am looking for the academic internships any time and Ph.D. positions at Fall 2
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/mm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Can LLMs Find Fraudsters? Multi-level LLM Enhanced Graph Fraud Detection](https://openreview.net/pdf?id=jADD2Ab4kE)
+[Can LLMs Find Fraudsters? Multi-level LLM Enhanced Graph Fraud Detection](https://dl.acm.org/doi/abs/10.1145/3746027.3755245)
 
 **Tairan Huang**, Yili Wang, Qiutong Li, Changlong He, Jianliang Gao
 
