@@ -89,7 +89,7 @@ Yili Wang, **<u>Tairan Huang</u>**, Changlong He, Qiutong Li, Jianliang Gao
   
    **<u>Tairan Huang</u>**, Yili Wang, Qiutong Li, Jianliang Gao.
 
-- <span style="background-color:#1e40af; color:white; padding:2px 8px; border-radius:4px; font-size:0.9em; box-shadow:0 1px 3px rgba(0,0,0,0.2);">Neural Network</span> **Revisiting low-homophily for graph-based fraud detection**
+- <span style="background-color:#1e40af; color:white; padding:2px 8px; border-radius:4px; font-size:0.9em; box-shadow:0 1px 3px rgba(0,0,0,0.2);">Neural Network</span> **Revisiting Low-homophily for Graph-based Fraud Detection**
   
    **<u>Tairan Huang</u>**, Qiutong Li, Cong Xu, Jianliang Gao, Zhao Li, Shichao Zhang.
 
