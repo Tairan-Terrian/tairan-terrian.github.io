@@ -39,7 +39,7 @@ I am looking for the academic internships any time and Ph.D. positions at Fall 2
 
 [ROVER: Robust Generative Continual Identity Unlearning against Relearning Attacks](https://openreview.net/pdf?id=jADD2Ab4kE)
 
-<u>**Tairan Huang**</u>, Qiang Chen, Beibei Hu, Yunlong Zhao, Hongyan Xu, Zhiyuan Chen, Yi Chen, Xiu Su
+**<u>Tairan Huang</u>**, Qiang Chen, Beibei Hu, Yunlong Zhao, Hongyan Xu, Zhiyuan Chen, Yi Chen, Xiu Su
 - First exploration of robust multi-identity unlearning.
 - Novel generative continual identity unlearning framework for unlearning multiple identities.
 </div>
@@ -50,7 +50,7 @@ I am looking for the academic internships any time and Ph.D. positions at Fall 2
 
 [Can LLMs Find Fraudsters? Multi-level LLM Enhanced Graph Fraud Detection](https://dl.acm.org/doi/abs/10.1145/3746027.3755245)
 
-<u>**Tairan Huang**</u>, Yili Wang, Qiutong Li, Changlong He, Jianliang Gao
+**<u>Tairan Huang</u>**, Yili Wang, Qiutong Li, Changlong He, Jianliang Gao
 
 - First exploration of fraud detection with LLMs in graph.
 - Novel multi-level LLM enhanced framework for graph fraud detection.
@@ -62,7 +62,7 @@ I am looking for the academic internships any time and Ph.D. positions at Fall 2
 
 [Simple and Efficient Heterogeneous Temporal Graph Neural Network](https://openreview.net/pdf?id=FOkbHmaW0I)
 
-Yili Wang, <u>**Tairan Huang**</u>, Changlong He, Qiutong Li, Jianliang Gao
+Yili Wang, **<u>Tairan Huang</u>**, Changlong He, Qiutong Li, Jianliang Gao
 
 - Novel attention-based learning paradigm for HTGs.
 - Novel dynamic attention mechanism with LLMs.
@@ -71,27 +71,27 @@ Yili Wang, <u>**Tairan Huang**</u>, Changlong He, Qiutong Li, Jianliang Gao
 
 - <span style="background-color:#1e40af; color:white; padding:2px 8px; border-radius:4px; font-size:0.9em; box-shadow:0 1px 3px rgba(0,0,0,0.2);">AAAI 2026</span> **ROVER: Robust Generative Continual Identity Unlearning against Relearning Attacks**
   
-   <u>**Tairan Huang**</u>, Qiang Chen, Beibei Hu, Yunlong Zhao, Hongyan Xu, Zhiyuan Chen, Yi Chen, Xiu Su.
+   **<u>Tairan Huang</u>**, Qiang Chen, Beibei Hu, Yunlong Zhao, Hongyan Xu, Zhiyuan Chen, Yi Chen, Xiu Su.
   
 - <span style="background-color:#1e40af; color:white; padding:2px 8px; border-radius:4px; font-size:0.9em; box-shadow:0 1px 3px rgba(0,0,0,0.2);">ACM MM 2025</span> <span style="color:red">(Oral)</span> **Can LLMs Find Fraudsters? Multi-level LLM Enhanced Graph Fraud Detection**
   
-   <u>**Tairan Huang**</u>, Yili Wang, Qiutong Li, Changlong He, Jianliang Gao.
+   **<u>Tairan Huang</u>**, Yili Wang, Qiutong Li, Changlong He, Jianliang Gao.
   
 - <span style="background-color:#1e40af; color:white; padding:2px 8px; border-radius:4px; font-size:0.9em; box-shadow:0 1px 3px rgba(0,0,0,0.2);">NeurIPS 2025</span> **Simple and Efficient Heterogeneous Temporal Graph Neural Network**
   
-   Yili Wang, <u>**Tairan Huang**</u>, Changlong He, Qiutong Li, Jianliang Gao.
+   Yili Wang, **<u>Tairan Huang</u>**, Changlong He, Qiutong Li, Jianliang Gao.
   
 - <span style="background-color:#1e40af; color:white; padding:2px 8px; border-radius:4px; font-size:0.9em; box-shadow:0 1px 3px rgba(0,0,0,0.2);">ECAI 2025</span> **Lightning Decoupled Graph Neural Architecture Search for Fraud Detection**
   
-   <u>**Tairan Huang**</u>, Changlong He, Yili Wang, Qiutong Li, Jianliang Gao.
+   **<u>Tairan Huang</u>**, Changlong He, Yili Wang, Qiutong Li, Jianliang Gao.
   
 - <span style="background-color:#1e40af; color:white; padding:2px 8px; border-radius:4px; font-size:0.9em; box-shadow:0 1px 3px rgba(0,0,0,0.2);">IPM</span> **Multi-Faceted Consistency Data Augmentation for Graph Anomaly Detection**
   
-   <u>**Tairan Huang**</u>, Yili Wang, Qiutong Li, Jianliang Gao.
+   **<u>Tairan Huang</u>**, Yili Wang, Qiutong Li, Jianliang Gao.
 
 - <span style="background-color:#1e40af; color:white; padding:2px 8px; border-radius:4px; font-size:0.9em; box-shadow:0 1px 3px rgba(0,0,0,0.2);">Neural Network</span> **Revisiting low-homophily for graph-based fraud detection**
   
-   <u>**Tairan Huang**</u>, Qiutong Li, Cong Xu, Jianliang Gao, Zhao Li, Shichao Zhang.
+   **<u>Tairan Huang</u>**, Qiutong Li, Cong Xu, Jianliang Gao, Zhao Li, Shichao Zhang.
 
 # 🎖 Honors and Awards
 - *2025.10* National Scholarship, Ministry of Education of China. **(Top 1%)**
