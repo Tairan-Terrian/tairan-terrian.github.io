@@ -69,27 +69,27 @@ Yili Wang, **Tairan Huang**, Changlong He, Qiutong Li, Jianliang Gao
 </div>
 </div>
 
-- <code class="language-plaintext highlighter-rouge">``AAAI 2026``</code> **ROVER: Robust Generative Continual Identity Unlearning against Relearning Attacks**
+- <code class="language-plaintext highlighter-rouge">AAAI 2026</code> **ROVER: Robust Generative Continual Identity Unlearning against Relearning Attacks**
   
    **Tairan Huang**, Qiang Chen, Beibei Hu, Yunlong Zhao, Hongyan Xu, Zhiyuan Chen, Yi Chen, Xiu Su.
   
-- <code class="language-plaintext highlighter-rouge">``ACM MM 2025``</code> <span style="color:red">(Oral)</span> **Can LLMs Find Fraudsters? Multi-level LLM Enhanced Graph Fraud Detection**
+- <code class="language-plaintext highlighter-rouge">ACM MM 2025</code> <span style="color:red">(Oral)</span> **Can LLMs Find Fraudsters? Multi-level LLM Enhanced Graph Fraud Detection**
   
    **Tairan Huang**, Yili Wang, Qiutong Li, Changlong He, Jianliang Gao.
   
-- <code class="language-plaintext highlighter-rouge">``NeurIPS 2025``</code> **Simple and Efficient Heterogeneous Temporal Graph Neural Network**
+- <code class="language-plaintext highlighter-rouge">NeurIPS 2025</code> **Simple and Efficient Heterogeneous Temporal Graph Neural Network**
   
    Yili Wang, **Tairan Huang**, Changlong He, Qiutong Li, Jianliang Gao.
   
-- <code class="language-plaintext highlighter-rouge">``ECAI 2025``</code> **Lightning Decoupled Graph Neural Architecture Search for Fraud Detection**
+- <code class="language-plaintext highlighter-rouge">ECAI 2025</code> **Lightning Decoupled Graph Neural Architecture Search for Fraud Detection**
   
    **Tairan Huang**, Changlong He, Yili Wang, Qiutong Li, Jianliang Gao.
   
-- <code class="language-plaintext highlighter-rouge">``IPM``</code> **Multi-Faceted Consistency Data Augmentation for Graph Anomaly Detection**
+- <code class="language-plaintext highlighter-rouge">IPM</code> **Multi-Faceted Consistency Data Augmentation for Graph Anomaly Detection**
   
    **Tairan Huang**, Yili Wang, Qiutong Li, Jianliang Gao.
 
-- <code class="language-plaintext highlighter-rouge">``Neural Network``</code> **Revisiting low-homophily for graph-based fraud detection**
+- <code class="language-plaintext highlighter-rouge">Neural Network</code> **Revisiting low-homophily for graph-based fraud detection**
   
    **Tairan Huang**, Qiutong Li, Cong Xu, Jianliang Gao, Zhao Li, Shichao Zhang.
 
