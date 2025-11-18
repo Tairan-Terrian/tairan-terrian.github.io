@@ -70,16 +70,27 @@ Yili Wang, **Tairan Huang**, Changlong He, Qiutong Li, Jianliang Gao
 </div>
 
 - ``AAAI 2026`` **ROVER: Robust Generative Continual Identity Unlearning against Relearning Attacks**
+  
    **Tairan Huang**, Qiang Chen, Beibei Hu, Yunlong Zhao, Hongyan Xu, Zhiyuan Chen, Yi Chen, Xiu Su.
+  
 - ``ACM MM 2025`` <span style="color:red">(Oral)</span> **Can LLMs Find Fraudsters? Multi-level LLM Enhanced Graph Fraud Detection**
+  
    **Tairan Huang**, Yili Wang, Qiutong Li, Changlong He, Jianliang Gao.
+  
 - ``NeurIPS 2025`` **Simple and Efficient Heterogeneous Temporal Graph Neural Network**
+  
    Yili Wang, **Tairan Huang**, Changlong He, Qiutong Li, Jianliang Gao.
+  
 - ``ECAI 2025`` **Lightning Decoupled Graph Neural Architecture Search for Fraud Detection**
+  
    **Tairan Huang**, Changlong He, Yili Wang, Qiutong Li, Jianliang Gao.
+  
 - ``IPM`` **Multi-Faceted Consistency Data Augmentation for Graph Anomaly Detection**
+  
    **Tairan Huang**, Yili Wang, Qiutong Li, Jianliang Gao.
+
 - ``Neurl Network`` **Revisiting low-homophily for graph-based fraud detection**
+  
    **Tairan Huang**, Qiutong Li, Cong Xu, Jianliang Gao, Zhao Li, Shichao Zhang.
 
 # 🎖 Honors and Awards
