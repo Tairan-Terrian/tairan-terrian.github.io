@@ -26,6 +26,7 @@ I am looking for the academic internships any time and Ph.D. positions at Fall 2
 
 # 🔥 News
 - *2025.11*: &nbsp;🎉🎉 One paper is accepted by AAAI 2026.
+- *2025.10*: &nbsp;🎉🎉 One paper is accepted by NeurIPS 2025.
 - *2025.08*: &nbsp;🎉🎉 One paper is accepted by Information Processsing & Management.
 - *2025.07*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2025.
 - *2025.07*: &nbsp;🎉🎉 One paper is accepted by ECAI 2025.
@@ -53,6 +54,18 @@ I am looking for the academic internships any time and Ph.D. positions at Fall 2
 
 - First exploration of fraud detection with LLMs in graph.
 - Novel multi-level LLM enhanced framework for graph fraud detection.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/neurips.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Simple and Efficient Heterogeneous Temporal Graph Neural Network](https://openreview.net/pdf?id=FOkbHmaW0I)
+
+Yili Wang, **Tairan Huang**, Changlong He, Qiutong Li, Jianliang Gao
+
+- Novel attention-based learning paradigm for HTGs.
+- Novel dynamic attention mechanism with LLMs.
 </div>
 </div>
 
