@@ -69,7 +69,7 @@ Yili Wang, **Tairan Huang**, Changlong He, Qiutong Li, Jianliang Gao
 </div>
 </div>
 
-- **ROVER: Robust Generative Continual Identity Unlearning against Relearning Attacks**
+- <div class="badge">AAAI 2026</div> **ROVER: Robust Generative Continual Identity Unlearning against Relearning Attacks**
   
    **Tairan Huang**, Qiang Chen, Beibei Hu, Yunlong Zhao, Hongyan Xu, Zhiyuan Chen, Yi Chen, Xiu Su.
 
