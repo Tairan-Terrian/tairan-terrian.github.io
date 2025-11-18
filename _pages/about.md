@@ -72,38 +72,26 @@ Yili Wang, **Tairan Huang**, Changlong He, Qiutong Li, Jianliang Gao
 - <span style="background-color:#1e40af; color:white; padding:2px 8px; border-radius:4px; font-size:0.9em; box-shadow:0 1px 3px rgba(0,0,0,0.2);">AAAI 2026</span> **ROVER: Robust Generative Continual Identity Unlearning against Relearning Attacks**
   
    **Tairan Huang**, Qiang Chen, Beibei Hu, Yunlong Zhao, Hongyan Xu, Zhiyuan Chen, Yi Chen, Xiu Su.
-
-  AAAI Conference on Artificial Intelligence (**AAAI**), 2026
   
-- **Can LLMs Find Fraudsters? Multi-level LLM Enhanced Graph Fraud Detection**
+- <span style="background-color:#1e40af; color:white; padding:2px 8px; border-radius:4px; font-size:0.9em; box-shadow:0 1px 3px rgba(0,0,0,0.2);">ACM MM 2025</span> <span style="color:red">(Oral)</span> **Can LLMs Find Fraudsters? Multi-level LLM Enhanced Graph Fraud Detection**
   
    **Tairan Huang**, Yili Wang, Qiutong Li, Changlong He, Jianliang Gao.
-
-  ACM International Conference on Multimedia (**ACM MM**), 2025, <span style="color:red">(Oral)</span>
   
-- **Simple and Efficient Heterogeneous Temporal Graph Neural Network**
+- <span style="background-color:#1e40af; color:white; padding:2px 8px; border-radius:4px; font-size:0.9em; box-shadow:0 1px 3px rgba(0,0,0,0.2);">NeurIPS 2025</span> **Simple and Efficient Heterogeneous Temporal Graph Neural Network**
   
    Yili Wang, **Tairan Huang**, Changlong He, Qiutong Li, Jianliang Gao.
-
-  Conference on Neural Information Processing Systems, (**NeurIPS**), 2025
   
-- **Lightning Decoupled Graph Neural Architecture Search for Fraud Detection**
+- <span style="background-color:#1e40af; color:white; padding:2px 8px; border-radius:4px; font-size:0.9em; box-shadow:0 1px 3px rgba(0,0,0,0.2);">ECAI 2025</span> **Lightning Decoupled Graph Neural Architecture Search for Fraud Detection**
   
    **Tairan Huang**, Changlong He, Yili Wang, Qiutong Li, Jianliang Gao.
-
-  European Conference on Artificial Intelligence (**ECAI**), 2025.
   
-- **Multi-Faceted Consistency Data Augmentation for Graph Anomaly Detection**
+- <span style="background-color:#1e40af; color:white; padding:2px 8px; border-radius:4px; font-size:0.9em; box-shadow:0 1px 3px rgba(0,0,0,0.2);">IPM</span> **Multi-Faceted Consistency Data Augmentation for Graph Anomaly Detection**
   
    **Tairan Huang**, Yili Wang, Qiutong Li, Jianliang Gao.
 
-  Information Processsing & Management, 2026
-
-- **Revisiting low-homophily for graph-based fraud detection**
+- <span style="background-color:#1e40af; color:white; padding:2px 8px; border-radius:4px; font-size:0.9em; box-shadow:0 1px 3px rgba(0,0,0,0.2);">Neural Network</span> **Revisiting low-homophily for graph-based fraud detection**
   
    **Tairan Huang**, Qiutong Li, Cong Xu, Jianliang Gao, Zhao Li, Shichao Zhang.
-
-  Neural Network, 2025
 
 # 🎖 Honors and Awards
 - *2025.10* National Scholarship, Ministry of Education of China. **(Top 1%)**
