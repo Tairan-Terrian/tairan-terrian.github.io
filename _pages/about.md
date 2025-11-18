@@ -69,29 +69,41 @@ Yili Wang, **Tairan Huang**, Changlong He, Qiutong Li, Jianliang Gao
 </div>
 </div>
 
-- <code class="language-plaintext highlighter-rouge">AAAI 2026</code> **ROVER: Robust Generative Continual Identity Unlearning against Relearning Attacks**
+- **ROVER: Robust Generative Continual Identity Unlearning against Relearning Attacks**
   
    **Tairan Huang**, Qiang Chen, Beibei Hu, Yunlong Zhao, Hongyan Xu, Zhiyuan Chen, Yi Chen, Xiu Su.
+
+  AAAI Conference on Artificial Intelligence (**AAAI**), 2026
   
-- <code class="language-plaintext highlighter-rouge">ACM MM 2025</code> <span style="color:red">(Oral)</span> **Can LLMs Find Fraudsters? Multi-level LLM Enhanced Graph Fraud Detection**
+- **Can LLMs Find Fraudsters? Multi-level LLM Enhanced Graph Fraud Detection**
   
    **Tairan Huang**, Yili Wang, Qiutong Li, Changlong He, Jianliang Gao.
+
+  ACM International Conference on Multimedia (**ACM MM**), 2025, <span style="color:red">(Oral)</span>
   
-- <code class="language-plaintext highlighter-rouge">NeurIPS 2025</code> **Simple and Efficient Heterogeneous Temporal Graph Neural Network**
+- **Simple and Efficient Heterogeneous Temporal Graph Neural Network**
   
    Yili Wang, **Tairan Huang**, Changlong He, Qiutong Li, Jianliang Gao.
+
+  Conference on Neural Information Processing Systems, (**NeurIPS**), 2025
   
-- <code class="language-plaintext highlighter-rouge">ECAI 2025</code> **Lightning Decoupled Graph Neural Architecture Search for Fraud Detection**
+- **Lightning Decoupled Graph Neural Architecture Search for Fraud Detection**
   
    **Tairan Huang**, Changlong He, Yili Wang, Qiutong Li, Jianliang Gao.
+
+  European Conference on Artificial Intelligence (**ECAI**), 2025.
   
-- <code class="language-plaintext highlighter-rouge">IPM</code> **Multi-Faceted Consistency Data Augmentation for Graph Anomaly Detection**
+- **Multi-Faceted Consistency Data Augmentation for Graph Anomaly Detection**
   
    **Tairan Huang**, Yili Wang, Qiutong Li, Jianliang Gao.
 
-- <code class="language-plaintext highlighter-rouge">Neural Network</code> **Revisiting low-homophily for graph-based fraud detection**
+  Information Processsing & Management, 2026
+
+- **Revisiting low-homophily for graph-based fraud detection**
   
    **Tairan Huang**, Qiutong Li, Cong Xu, Jianliang Gao, Zhao Li, Shichao Zhang.
+
+  Neural Network, 2025
 
 # 🎖 Honors and Awards
 - *2025.10* National Scholarship, Ministry of Education of China. **(Top 1%)**
