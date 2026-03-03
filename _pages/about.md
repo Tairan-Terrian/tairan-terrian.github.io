@@ -25,12 +25,10 @@ I am looking for the academic internships any time and Ph.D. positions at Fall 2
 
 
 # 🔥 News
+- *2026.02*: &nbsp;🎉🎉 One paper is accepted by CVPR 2026.
 - *2025.11*: &nbsp;🎉🎉 One paper is accepted by AAAI 2026.
 - *2025.10*: &nbsp;🎉🎉 One paper is accepted by NeurIPS 2025.
-- *2025.08*: &nbsp;🎉🎉 One paper is accepted by Information Processsing & Management.
 - *2025.07*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2025.
-- *2025.07*: &nbsp;🎉🎉 One paper is accepted by ECAI 2025.
-- *2025.03*: &nbsp;🎉🎉 One paper is accepted by Neural Networks.
 
 # 📝 Selected Publications
 
@@ -68,6 +66,10 @@ Yili Wang, **<u>Tairan Huang</u>**, Changlong He, Qiutong Li, Jianliang Gao
 - Novel dynamic attention mechanism with LLMs.
 </div>
 </div>
+
+- <span style="background-color:#1e40af; color:white; padding:2px 8px; border-radius:4px; font-size:0.9em; box-shadow:0 1px 3px rgba(0,0,0,0.2);">CVPR 2026</span> **VL-Eraser: Vacuum Distillation for Machine Unlearning in Vision-Language Models**
+  
+   Yili Wang, Lu Dai, **<u>Tairan Huang</u>**, Yijie Xu, Hui Xiong.
 
 - <span style="background-color:#1e40af; color:white; padding:2px 8px; border-radius:4px; font-size:0.9em; box-shadow:0 1px 3px rgba(0,0,0,0.2);">AAAI 2026</span> **ROVER: Robust Generative Continual Identity Unlearning against Relearning Attacks**
   
