@@ -35,7 +35,7 @@ I am looking for the academic internships any time and Ph.D. positions at Fall 2
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/aaai.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ROVER: Robust Generative Continual Identity Unlearning against Relearning Attacks](https://openreview.net/pdf?id=6sgexK0JJ2)
+[ROVER: Robust Generative Continual Identity Unlearning against Relearning Attacks](https://ojs.aaai.org/index.php/AAAI/article/view/37426)
 
 **<u>Tairan Huang</u>**, Qiang Chen, Beibei Hu, Yunlong Zhao, Hongyan Xu, Zhiyuan Chen, Yi Chen, Xiu Su
 - First exploration of robust multi-identity unlearning.
