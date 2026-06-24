@@ -41,6 +41,7 @@ I am looking for the academic internships any time and Ph.D. positions at Fall 2
 - First exploration of robust multi-identity unlearning.
 - Novel generative continual identity unlearning framework for unlearning multiple identities.
 </div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/cvpr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -51,7 +52,6 @@ Yili Wang, Lu Dai, **<u>Tairan Huang</u>**, Yijie Xu, Hui Xiong.
 - First analysis of machine unlearning paradigms in multimodal scenarios.
 - Novel unlearning paradigm for Vision-language Models.
 </div>
-
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/mm.png' alt="sym" width="100%"></div></div>
