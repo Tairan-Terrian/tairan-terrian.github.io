@@ -107,7 +107,7 @@ Yili Wang, **<u>Tairan Huang</u>**, Changlong He, Qiutong Li, Jianliang Gao
 # 💬 Services
 **Reviewer**:
 - IEEE Transactions on Knowledge and Data Engineering (TKDE)
-- AAAI Conference on Artificial Intelligence (AAAI 2026)
+- AAAI Conference on Artificial Intelligence (AAAI 2026, 2027)
 
 <!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 <!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)-->
