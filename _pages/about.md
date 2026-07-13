@@ -25,12 +25,25 @@ I am looking for the academic internships any time and Ph.D. positions at Fall 2
 
 
 # 🔥 News
+- *2026.07*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2026.
 - *2026.02*: &nbsp;🎉🎉 One paper is accepted by CVPR 2026.
 - *2025.11*: &nbsp;🎉🎉 One paper is accepted by AAAI 2026.
 - *2025.10*: &nbsp;🎉🎉 One paper is accepted by NeurIPS 2025.
 - *2025.07*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2025.
 
 # 📝 Selected Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2026</div><img src='images/mm26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[UNIT: Unleash Large Language Models Potential for Graph Continual Learning](https://openreview.net/pdf?id=TP7NHe7FFc)
+
+**<u>Tairan Huang</u>**, Yili Wang, Beibei Hu, Yiting Shi, Qiutong Li, Changlong He, Jianliang Gao
+- Specific design for graph continual learning.
+- Novel framework with uncertain-aware anchor generation and the structural confluence modeling.
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/aaai.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -78,6 +91,11 @@ Yili Wang, **<u>Tairan Huang</u>**, Changlong He, Qiutong Li, Jianliang Gao
 </div>
 </div>
 
+
+- <span style="background-color:#1e40af; color:white; padding:2px 8px; border-radius:4px; font-size:0.9em; box-shadow:0 1px 3px rgba(0,0,0,0.2);">ACM MM 2026</span> **UNIT: Unleash Large Language Models Potential for Graph Continual Learning**
+  
+   **<u>Tairan Huang</u>**, Yili Wang, Beibei Hu, Yiting Shi, Qiutong Li, Changlong He, Jianliang Gao.
+  
 - <span style="background-color:#1e40af; color:white; padding:2px 8px; border-radius:4px; font-size:0.9em; box-shadow:0 1px 3px rgba(0,0,0,0.2);">CVPR 2026</span> **VL-Eraser: Vacuum Distillation for Machine Unlearning in Vision-Language Models**
   
    Yili Wang, Lu Dai, **<u>Tairan Huang</u>**, Yijie Xu, Hui Xiong.
