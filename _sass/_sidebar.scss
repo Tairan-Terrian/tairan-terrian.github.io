@@ -268,3 +268,81 @@
     display: none;
   }
 }
+
+/*
+   Academic travel map
+   ========================================================================== */
+.travel-map {
+  display: block;
+  max-width: 320px;
+  margin: .55em auto 0;
+  padding-top: .6em;
+  border-top: 1px solid $border-color;
+
+  @include breakpoint($large) {
+    max-width: none;
+    margin-top: .7em;
+    margin-right: 0;
+    margin-left: 0;
+    padding-top: .8em;
+  }
+}
+
+.travel-map__canvas {
+  position: relative;
+  isolation: isolate;
+  overflow: hidden;
+  width: 100%;
+  aspect-ratio: 2 / 1;
+  border-radius: 12px;
+  background:
+    radial-gradient(circle at 82% 20%, rgba(#1e40af, .1), transparent 38%),
+    linear-gradient(145deg, #fbfcff 0%, #f2f5fb 100%);
+  box-shadow:
+    inset 0 0 0 1px rgba(#1e40af, .08),
+    0 6px 18px rgba(#0f172a, .07);
+
+  &::after {
+    position: absolute;
+    inset: 0;
+    border-radius: inherit;
+    background: linear-gradient(120deg, rgba(#fff, .24), transparent 42%);
+    content: "";
+    pointer-events: none;
+    z-index: 1;
+  }
+
+  > img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    opacity: .32;
+    filter: grayscale(1) contrast(.72);
+    mix-blend-mode: multiply;
+  }
+}
+
+.travel-map__marker {
+  position: absolute;
+  top: var(--map-y);
+  left: var(--map-x);
+  width: 7px;
+  height: 7px;
+  transform: translate(-50%, -50%);
+  border: 1.5px solid #fff;
+  border-radius: 50%;
+  background: #1e40af;
+  box-shadow:
+    0 0 0 2px rgba(#1e40af, .16),
+    0 2px 4px rgba(#0f172a, .2);
+  z-index: 2;
+}
+
+.travel-map__marker--home {
+  width: 9px;
+  height: 9px;
+  box-shadow:
+    0 0 0 3px rgba(#1e40af, .15),
+    0 2px 5px rgba(#0f172a, .24);
+}

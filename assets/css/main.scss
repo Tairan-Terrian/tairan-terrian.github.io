@@ -107,3 +107,48 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.publication-list {
+    margin: 1.5em 0 2em;
+}
+
+.publication-entry {
+    border-left: 6px solid #1e40af;
+    margin-bottom: 1.75em;
+    padding: .15em 0 .15em 1.35em;
+
+    &:last-child {
+        margin-bottom: 0;
+    }
+
+    p {
+        margin: 0;
+        line-height: 1.55;
+    }
+
+    .publication-title {
+        font-size: 1.05em;
+        margin-bottom: .25em;
+    }
+
+    .publication-authors {
+        margin-bottom: .15em;
+    }
+
+    .publication-venue {
+        color: #404040;
+    }
+
+    .publication-note {
+        color: #d62728;
+        font-weight: 600;
+    }
+}
+
+@include breakpoint(max-width $small) {
+    .publication-entry {
+        border-left-width: 5px;
+        margin-bottom: 1.4em;
+        padding-left: .9em;
+    }
+}

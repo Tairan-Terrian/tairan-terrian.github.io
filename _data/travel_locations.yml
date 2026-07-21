@@ -1,0 +1,40 @@
+- city: Changsha, China
+  label: Central South University
+  x: 81.37
+  y: 34.32
+  home: true
+
+- city: Rio de Janeiro, Brazil
+  label: ACM MM 2026
+  x: 38.01
+  y: 62.72
+
+- city: Singapore
+  label: AAAI 2026
+  x: 78.84
+  y: 49.25
+
+- city: Denver, USA
+  label: CVPR 2026
+  x: 20.84
+  y: 27.92
+
+- city: Dublin, Ireland
+  label: ACM MM 2025
+  x: 48.26
+  y: 20.36
+
+- city: San Diego, USA
+  label: NeurIPS 2025
+  x: 17.46
+  y: 31.82
+
+- city: Mexico City, Mexico
+  label: NeurIPS 2025
+  x: 22.46
+  y: 39.21
+
+- city: Bologna, Italy
+  label: ECAI 2025
+  x: 53.15
+  y: 25.28

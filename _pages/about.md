@@ -92,37 +92,55 @@ Yili Wang, **<u>Tairan Huang</u>**, Changlong He, Qiutong Li, Jianliang Gao
 </div>
 
 
-- <span style="background-color:#1e40af; color:white; padding:2px 8px; border-radius:4px; font-size:0.9em; box-shadow:0 1px 3px rgba(0,0,0,0.2);">ACM MM 2026</span> **UNIT: Unleash Large Language Models Potential for Graph Continual Learning**
-  
-   **<u>Tairan Huang</u>**, Yili Wang, Beibei Hu, Yiting Shi, Qiutong Li, Changlong He, Jianliang Gao.
-  
-- <span style="background-color:#1e40af; color:white; padding:2px 8px; border-radius:4px; font-size:0.9em; box-shadow:0 1px 3px rgba(0,0,0,0.2);">CVPR 2026</span> **VL-Eraser: Vacuum Distillation for Machine Unlearning in Vision-Language Models**
-  
-   Yili Wang, Lu Dai, **<u>Tairan Huang</u>**, Yijie Xu, Hui Xiong.
+<div class="publication-list">
+  <article class="publication-entry">
+    <p class="publication-title"><strong>UNIT: Unleash Large Language Models Potential for Graph Continual Learning</strong></p>
+    <p class="publication-authors"><strong><u>Tairan Huang</u></strong>, Yili Wang, Beibei Hu, Yiting Shi, Qiutong Li, Changlong He, Jianliang Gao.</p>
+    <p class="publication-venue">ACM International Conference on Multimedia (ACM MM 2026)</p>
+  </article>
 
-- <span style="background-color:#1e40af; color:white; padding:2px 8px; border-radius:4px; font-size:0.9em; box-shadow:0 1px 3px rgba(0,0,0,0.2);">AAAI 2026</span> **ROVER: Robust Generative Continual Identity Unlearning against Relearning Attacks**
-  
-   **<u>Tairan Huang</u>**, Qiang Chen, Beibei Hu, Yunlong Zhao, Hongyan Xu, Zhiyuan Chen, Yi Chen, Xiu Su.
-  
-- <span style="background-color:#1e40af; color:white; padding:2px 8px; border-radius:4px; font-size:0.9em; box-shadow:0 1px 3px rgba(0,0,0,0.2);">ACM MM 2025</span> <span style="color:red">(Oral)</span> **Can LLMs Find Fraudsters? Multi-level LLM Enhanced Graph Fraud Detection**
-  
-   **<u>Tairan Huang</u>**, Yili Wang, Qiutong Li, Changlong He, Jianliang Gao.
-  
-- <span style="background-color:#1e40af; color:white; padding:2px 8px; border-radius:4px; font-size:0.9em; box-shadow:0 1px 3px rgba(0,0,0,0.2);">NeurIPS 2025</span> **Simple and Efficient Heterogeneous Temporal Graph Neural Network**
-  
-   Yili Wang, **<u>Tairan Huang</u>**, Changlong He, Qiutong Li, Jianliang Gao.
-  
-- <span style="background-color:#1e40af; color:white; padding:2px 8px; border-radius:4px; font-size:0.9em; box-shadow:0 1px 3px rgba(0,0,0,0.2);">ECAI 2025</span> **Lightning Decoupled Graph Neural Architecture Search for Fraud Detection**
-  
-   **<u>Tairan Huang</u>**, Changlong He, Yili Wang, Qiutong Li, Jianliang Gao.
-  
-- <span style="background-color:#1e40af; color:white; padding:2px 8px; border-radius:4px; font-size:0.9em; box-shadow:0 1px 3px rgba(0,0,0,0.2);">IPM</span> **Multi-Faceted Consistency Data Augmentation for Graph Anomaly Detection**
-  
-   **<u>Tairan Huang</u>**, Yili Wang, Qiutong Li, Jianliang Gao.
+  <article class="publication-entry">
+    <p class="publication-title"><strong>VL-Eraser: Vacuum Distillation for Machine Unlearning in Vision-Language Models</strong></p>
+    <p class="publication-authors">Yili Wang, Lu Dai, <strong><u>Tairan Huang</u></strong>, Yijie Xu, Hui Xiong.</p>
+    <p class="publication-venue">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)</p>
+  </article>
 
-- <span style="background-color:#1e40af; color:white; padding:2px 8px; border-radius:4px; font-size:0.9em; box-shadow:0 1px 3px rgba(0,0,0,0.2);">Neural Network</span> **Revisiting Low-homophily for Graph-based Fraud Detection**
-  
-   **<u>Tairan Huang</u>**, Qiutong Li, Cong Xu, Jianliang Gao, Zhao Li, Shichao Zhang.
+  <article class="publication-entry">
+    <p class="publication-title"><strong>ROVER: Robust Generative Continual Identity Unlearning against Relearning Attacks</strong></p>
+    <p class="publication-authors"><strong><u>Tairan Huang</u></strong>, Qiang Chen, Beibei Hu, Yunlong Zhao, Hongyan Xu, Zhiyuan Chen, Yi Chen, Xiu Su.</p>
+    <p class="publication-venue">AAAI Conference on Artificial Intelligence (AAAI 2026)</p>
+  </article>
+
+  <article class="publication-entry">
+    <p class="publication-title"><strong>Can LLMs Find Fraudsters? Multi-level LLM Enhanced Graph Fraud Detection</strong></p>
+    <p class="publication-authors"><strong><u>Tairan Huang</u></strong>, Yili Wang, Qiutong Li, Changlong He, Jianliang Gao.</p>
+    <p class="publication-venue">ACM International Conference on Multimedia (ACM MM 2025) <span class="publication-note">(Oral)</span></p>
+  </article>
+
+  <article class="publication-entry">
+    <p class="publication-title"><strong>Simple and Efficient Heterogeneous Temporal Graph Neural Network</strong></p>
+    <p class="publication-authors">Yili Wang, <strong><u>Tairan Huang</u></strong>, Changlong He, Qiutong Li, Jianliang Gao.</p>
+    <p class="publication-venue">Conference on Neural Information Processing Systems (NeurIPS 2025)</p>
+  </article>
+
+  <article class="publication-entry">
+    <p class="publication-title"><strong>Lightning Decoupled Graph Neural Architecture Search for Fraud Detection</strong></p>
+    <p class="publication-authors"><strong><u>Tairan Huang</u></strong>, Changlong He, Yili Wang, Qiutong Li, Jianliang Gao.</p>
+    <p class="publication-venue">European Conference on Artificial Intelligence (ECAI 2025)</p>
+  </article>
+
+  <article class="publication-entry">
+    <p class="publication-title"><strong>Multi-Faceted Consistency Data Augmentation for Graph Anomaly Detection</strong></p>
+    <p class="publication-authors"><strong><u>Tairan Huang</u></strong>, Yili Wang, Qiutong Li, Jianliang Gao.</p>
+    <p class="publication-venue">Information Processing &amp; Management (IPM)</p>
+  </article>
+
+  <article class="publication-entry">
+    <p class="publication-title"><strong>Revisiting Low-homophily for Graph-based Fraud Detection</strong></p>
+    <p class="publication-authors"><strong><u>Tairan Huang</u></strong>, Qiutong Li, Cong Xu, Jianliang Gao, Zhao Li, Shichao Zhang.</p>
+    <p class="publication-venue">Neural Networks</p>
+  </article>
+</div>
 
 # 🎖 Honors and Awards
 - *2025.10* National Scholarship, Ministry of Education of China. **(Top 1%)**

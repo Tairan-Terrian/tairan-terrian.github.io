@@ -1,6 +1,18 @@
 {% if page.author_profile or layout.author_profile or page.sidebar %}
   <div class="sidebar sticky">
-  {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
+  {% if page.author_profile or layout.author_profile %}
+    {% include author-profile.html %}
+    <div class="travel-map">
+      <div class="travel-map__canvas" role="img" aria-label="World map with markers for school and conference locations">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/BlankMap-Equirectangular.svg/960px-BlankMap-Equirectangular.svg.png" alt="" aria-hidden="true">
+        {% for location in site.data.travel_locations %}
+          <span class="travel-map__marker{% if location.home %} travel-map__marker--home{% endif %}"
+                style="--map-x: {{ location.x }}%; --map-y: {{ location.y }}%;"
+                aria-hidden="true"></span>
+        {% endfor %}
+      </div>
+    </div>
+  {% endif %}
   {% if page.sidebar %}
     {% for s in page.sidebar %}
       {% if s.image %}
