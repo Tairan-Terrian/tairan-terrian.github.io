@@ -25,6 +25,7 @@ I am looking for the academic internships any time and Ph.D. positions at Fall 2
 
 
 # 🔥 News
+- *2026.09*: &nbsp;🎉🎉 Two papers are accepted by NeurIPS 2026.
 - *2026.07*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2026.
 - *2026.02*: &nbsp;🎉🎉 One paper is accepted by CVPR 2026.
 - *2025.11*: &nbsp;🎉🎉 One paper is accepted by AAAI 2026.
@@ -32,6 +33,17 @@ I am looking for the academic internships any time and Ph.D. positions at Fall 2
 - *2025.07*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2025.
 
 # 📝 Selected Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/nips_2026.png' alt="Overview of Tools as Continuous Flow for Evolving Agentic Reasoning" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Tools as Continuous Flow for Evolving Agentic Reasoning](https://arxiv.org/pdf/2605.07339)
+
+**<u>Tairan Huang</u>**, Siyu Shang, Qiang Chen, Xiu Su, Yi Chen.
+- First plan-level closed-loop benchmark for agentic reasoning in dynamic real-world environments.
+- Novel continuous-flow framework for robust long-horizon planning and generalization to unseen tools.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2026</div><img src='images/mm26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -93,6 +105,18 @@ Yili Wang, **<u>Tairan Huang</u>**, Changlong He, Qiutong Li, Jianliang Gao
 
 
 <div class="publication-list">
+  <article class="publication-entry">
+    <p class="publication-title"><strong>Tools as Continuous Flow for Evolving Agentic Reasoning</strong></p>
+    <p class="publication-authors"><strong><u>Tairan Huang</u></strong>, Siyu Shang, Qiang Chen, Xiu Su, Yi Chen.</p>
+    <p class="publication-venue">Conference on Neural Information Processing Systems (NeurIPS 2026)</p>
+  </article>
+
+  <article class="publication-entry">
+    <p class="publication-title"><strong>Machine Unlearning in Diffusion LLMs</strong></p>
+    <p class="publication-authors">Yili Wang, Yijie Xu, Lu Dai, <strong><u>Tairan Huang</u></strong>, Qianyi Cai, Huizai Yao, Tianfu Wang, Hui Xiong.</p>
+    <p class="publication-venue">Conference on Neural Information Processing Systems (NeurIPS 2026)</p>
+  </article>
+
   <article class="publication-entry">
     <p class="publication-title"><strong>UNIT: Unleash Large Language Models Potential for Graph Continual Learning</strong></p>
     <p class="publication-authors"><strong><u>Tairan Huang</u></strong>, Yili Wang, Beibei Hu, Yiting Shi, Qiutong Li, Changlong He, Jianliang Gao.</p>
