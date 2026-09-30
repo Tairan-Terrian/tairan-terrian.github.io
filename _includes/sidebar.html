@@ -2,14 +2,15 @@
   <div class="sidebar sticky">
   {% if page.author_profile or layout.author_profile %}
     {% include author-profile.html %}
-    <div class="travel-map">
-      <div class="travel-map__canvas" role="img" aria-label="World map with markers for school and conference locations">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/BlankMap-Equirectangular.svg/960px-BlankMap-Equirectangular.svg.png" alt="" aria-hidden="true">
-        {% for location in site.data.travel_locations %}
-          <span class="travel-map__marker{% if location.home %} travel-map__marker--home{% endif %}"
-                style="--map-x: {{ location.x }}%; --map-y: {{ location.y }}%;"
-                aria-hidden="true"></span>
-        {% endfor %}
+    <div class="visitor-map">
+      <div class="visitor-map__embed" role="img" aria-label="World map showing approximate visitor locations">
+        <img class="visitor-map__base" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/BlankMap-Equirectangular.svg/960px-BlankMap-Equirectangular.svg.png" alt="" aria-hidden="true">
+        <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=2zYBVLp7fhWuFxluY2vdlh1ECr9W4xMm2DXITRhIosQ&amp;cl=ffffff&amp;w=a"></script>
+        <noscript>
+          <a href="https://mapmyvisitors.com/web/1c8jv" aria-label="View visitor statistics">
+            <img src="https://mapmyvisitors.com/map.png?d=2zYBVLp7fhWuFxluY2vdlh1ECr9W4xMm2DXITRhIosQ&amp;cl=ffffff" alt="World map showing approximate visitor locations">
+          </a>
+        </noscript>
       </div>
     </div>
   {% endif %}
