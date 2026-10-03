@@ -21,16 +21,17 @@ redirect_from:
 I am currently a M.S. student at Central South University. 
 
 My research focuses on Graph Neural networks, Large Language Model, Data Mining, Graph Fraud detection, specifically the area of Large Language Models including their theoretical foundations and applications.
-I am looking for the academic internships any time and Ph.D. positions at Fall 2027. If you are interested in me, please feel free to email me at [tairanhuang99@gmail.com](mailto:tairanhuang99@gmail.com).
+I am looking for the academic internships any time and Ph.D. positions at **Spring 2027 or Fall 2027**. If you are interested in me, please feel free to email me at [tairanhuang99@gmail.com](mailto:tairanhuang99@gmail.com).
 
 
 # 🔥 News
-- *2026.09*: &nbsp;🎉🎉 Two papers are accepted by NeurIPS 2026.
-- *2026.07*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2026.
-- *2026.02*: &nbsp;🎉🎉 One paper is accepted by CVPR 2026.
-- *2025.11*: &nbsp;🎉🎉 One paper is accepted by AAAI 2026.
-- *2025.10*: &nbsp;🎉🎉 One paper is accepted by NeurIPS 2025.
-- *2025.07*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2025.
+- *2026.09* &nbsp;🎉🎉 Two papers are accepted by NeurIPS 2026.
+- *2026.07* &nbsp;🎉🎉 One paper is accepted by ACM MM 2026.
+- *2026.02* &nbsp;🎉🎉 One paper is accepted by CVPR 2026.
+- *2025.11* &nbsp;🎉🎉 One paper is accepted by AAAI 2026.
+- *2025.10* &nbsp;🏅🏅 Honored to receive the National Scholarship.
+- *2025.10* &nbsp;🎉🎉 One paper is accepted by NeurIPS 2025.
+- *2025.07* &nbsp;🎉🎉 One paper is accepted by ACM MM 2025.
 
 # 📝 Selected Publications
 
@@ -167,7 +168,7 @@ Yili Wang, **<u>Tairan Huang</u>**, Changlong He, Qiutong Li, Jianliang Gao
 </div>
 
 # 🎖 Honors and Awards
-- *2025.10* National Scholarship, Ministry of Education of China. **(Top 1%)**
+- *2025.10* National Scholarship, Ministry of Education of China. **(Top 0.2%)**
 - *2024.10* Excellent Academic Scholarship of the Recommended Student, Central South University. 
 
 
@@ -179,6 +180,8 @@ Yili Wang, **<u>Tairan Huang</u>**, Changlong He, Qiutong Li, Jianliang Gao
 **Reviewer**:
 - IEEE Transactions on Knowledge and Data Engineering (TKDE)
 - AAAI Conference on Artificial Intelligence (AAAI 2026, 2027)
+- Conference on Neural Information Processing Systems (NeurIPS 2026)
+- International Conference on Learning Representations (ICLR 2027)
 
 <!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 <!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)-->

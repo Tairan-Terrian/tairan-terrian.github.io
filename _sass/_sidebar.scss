@@ -324,23 +324,23 @@
   position: absolute;
   top: var(--map-y);
   left: var(--map-x);
-  width: 10px;
-  height: 10px;
+  width: 8px;
+  height: 8px;
   transform: translate(-50%, -50%);
-  border: 2px solid #fff;
+  border: 1.5px solid #fff;
   border-radius: 50%;
   background: #1e40af;
   box-shadow:
-    0 0 0 3px rgba(#1e40af, .2),
-    0 2px 6px rgba(#0f172a, .26);
+    0 0 0 2px rgba(#1e40af, .2),
+    0 2px 5px rgba(#0f172a, .24);
   z-index: 2;
 }
 
 .travel-map__marker--home {
-  width: 12px;
-  height: 12px;
-  border-width: 2.5px;
+  width: 10px;
+  height: 10px;
+  border-width: 2px;
   box-shadow:
-    0 0 0 4px rgba(#1e40af, .2),
-    0 2px 7px rgba(#0f172a, .28);
+    0 0 0 3px rgba(#1e40af, .2),
+    0 2px 6px rgba(#0f172a, .26);
 }

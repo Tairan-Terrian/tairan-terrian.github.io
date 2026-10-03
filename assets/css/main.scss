@@ -108,6 +108,10 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 
+#-news + ul > li > em {
+    color: #4884bc;
+}
+
 .publication-list {
     margin: 1.5em 0 2em;
 }
