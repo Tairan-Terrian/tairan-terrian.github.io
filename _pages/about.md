@@ -172,10 +172,6 @@ Yili Wang, **<u>Tairan Huang</u>**, Changlong He, Qiutong Li, Jianliang Gao
 - *2024.10* Excellent Academic Scholarship of the Recommended Student, Central South University. 
 
 
-# 📖 Educations
-- *2024.09 - 2027.06 (now)*, Master, Central South University, Changsha, China. 
-
-
 # 💬 Services
 **Reviewer**:
 - IEEE Transactions on Knowledge and Data Engineering (TKDE)
