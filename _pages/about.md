@@ -25,6 +25,7 @@ I am looking for the academic internships any time and Ph.D. positions at **Spri
 
 
 # 🔥 News
+- *2026.10* &nbsp;🏅🏅 Honored to receive the National Scholarship for the second consecutive year.
 - *2026.09* &nbsp;🎉🎉 Two papers are accepted by NeurIPS 2026.
 - *2026.07* &nbsp;🎉🎉 One paper is accepted by ACM MM 2026.
 - *2026.02* &nbsp;🎉🎉 One paper is accepted by CVPR 2026.
@@ -168,6 +169,7 @@ Yili Wang, **<u>Tairan Huang</u>**, Changlong He, Qiutong Li, Jianliang Gao
 </div>
 
 # 🎖 Honors and Awards
+- *2026.10* National Scholarship, Ministry of Education of China. **(Top 0.2%)**
 - *2025.10* National Scholarship, Ministry of Education of China. **(Top 0.2%)**
 - *2024.10* Excellent Academic Scholarship of the Recommended Student, Central South University. 
 
