@@ -4,6 +4,11 @@
   y: 34.32
   home: true
 
+- city: San Jose, USA
+  label: SIGKDD 2027
+  x: 16.14
+  y: 29.26
+
 - city: Rio de Janeiro, Brazil
   label: ACM MM 2026
   x: 38.01

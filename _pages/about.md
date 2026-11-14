@@ -25,6 +25,7 @@ I am looking for the academic internships any time and Ph.D. positions at **Spri
 
 
 # 🔥 News
+- *2026.11* &nbsp;🎉🎉 One paper is accepted by SIGKDD 2027.
 - *2026.10* &nbsp;🏅🏅 Honored to receive the National Scholarship for the second consecutive year.
 - *2026.09* &nbsp;🎉🎉 Two papers are accepted by NeurIPS 2026.
 - *2026.07* &nbsp;🎉🎉 One paper is accepted by ACM MM 2026.
@@ -108,6 +109,12 @@ Yili Wang, **<u>Tairan Huang</u>**, Changlong He, Qiutong Li, Jianliang Gao
 
 <div class="publication-list">
   <article class="publication-entry">
+    <p class="publication-title"><strong>Dash-GFM: Accelerating Discrete Flow Matching For Graph Generation</strong></p>
+    <p class="publication-authors">Yili Wang, <strong><u>Tairan Huang</u></strong>, Qianyi Cai, Yijie Xu, Yi Cui, Hui Xiong.</p>
+    <p class="publication-venue">ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD 2027)</p>
+  </article>
+
+  <article class="publication-entry">
     <p class="publication-title"><strong>Tools as Continuous Flow for Evolving Agentic Reasoning</strong></p>
     <p class="publication-authors"><strong><u>Tairan Huang</u></strong>, Siyu Shang, Qiang Chen, Xiu Su, Yi Chen.</p>
     <p class="publication-venue">Conference on Neural Information Processing Systems (NeurIPS 2026)</p>
@@ -180,6 +187,7 @@ Yili Wang, **<u>Tairan Huang</u>**, Changlong He, Qiutong Li, Jianliang Gao
 - AAAI Conference on Artificial Intelligence (AAAI 2026, 2027)
 - Conference on Neural Information Processing Systems (NeurIPS 2026)
 - International Conference on Learning Representations (ICLR 2027)
+- ACM Web Conference (WWW 2027)
 
 <!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 <!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)-->
