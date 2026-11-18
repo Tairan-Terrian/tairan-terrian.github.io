@@ -6,7 +6,7 @@
       <div class="travel-map__canvas" role="img" aria-label="World map with markers for school and conference locations">
         <img src="{{ '/images/travel-world.svg' | relative_url }}" alt="" aria-hidden="true">
         {% for location in site.data.travel_locations %}
-          <span class="travel-map__marker{% if location.home %} travel-map__marker--home{% endif %}"
+          <span class="travel-map__marker"
                 style="--map-x: {{ location.x }}%; --map-y: {{ location.y }}%;"
                 aria-hidden="true"></span>
         {% endfor %}

@@ -18,11 +18,14 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👋 About Me
-I am currently a M.S. student at Central South University. 
+In spring 2027, I will join the Hong Kong University of Science and Technology (HKUST) as a PhD student in Industrial Engineering and Decision Analytics, advised by [Prof. Yi Chen](https://yichen-hkust.github.io/) and [Prof. Xiu Su](https://xiusu.github.io/). I also work closely with [Prof. Hui Xiong](https://hkustai.github.io/) on machine unlearning and vision-language models.
 
-My research focuses on Graph Neural networks, Large Language Model, Data Mining, Graph Fraud detection, specifically the area of Large Language Models including their theoretical foundations and applications.
-I am looking for the academic internships any time and Ph.D. positions at **Spring 2027 or Fall 2027**. If you are interested in me, please feel free to email me at [tairanhuang99@gmail.com](mailto:tairanhuang99@gmail.com).
+<span aria-hidden="true">🌍</span> <strong class="research-topic">LLM Agent &amp; World Model</strong>. My research on LLM agents explores how language models reason, make decisions, and learn from experience. I’m particularly interested in how agents adapt when they encounter unfamiliar tasks or environments. In parallel, I’m interested in world models that learn how environments change over time. I want to understand what these models need to represent to predict future events and simulate outcomes they have never observed.
 
+<span aria-hidden="true">🔬</span> <strong class="research-topic">AI for Science</strong>. I’m interested in AI for medicine and the life sciences, with a particular focus on proteins. I want to understand how computational models can connect the behavior of individual proteins to broader questions about health and disease. A second research interest is how AI can develop an understanding of the physical world. I’m especially interested in models that can explain observed phenomena and predict how a physical system will behave under new conditions.
+
+
+<p class="collaboration-invite"><span aria-hidden="true">📢</span> If you’re interested in my research and would like to collaborate, feel free to get in touch anytime.</p>
 
 # 🔥 News
 - *2026.11* &nbsp;🎉🎉 One paper is accepted by SIGKDD 2027.

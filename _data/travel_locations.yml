@@ -2,7 +2,11 @@
   label: Central South University
   x: 81.37
   y: 34.32
-  home: true
+
+- city: Hong Kong, China
+  label: The Hong Kong University of Science and Technology
+  x: 81.75
+  y: 37.59
 
 - city: San Jose, USA
   label: SIGKDD 2027
